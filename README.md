@@ -1,6 +1,6 @@
 <h1>About the app</h1>
 
-Weather app is realized in <b>SwiftUI</b>. 
+Shop app is realized in <b>SwiftUI</b>. 
 
 <h4><a href="https://user-images.githubusercontent.com/6122888/186193821-105262ca-46ff-4563-a4f2-cfaeb30f5cbb.mov" target="_blank">Download video demo</a><br></h4>
 
